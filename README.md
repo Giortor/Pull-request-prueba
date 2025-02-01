@@ -1,2 +1,3 @@
 PULL REQUEST PRACTICA
--[Giortor](https://github.com/Giortor)
+
+ - [Giortor](https://github.com/Giortor)
